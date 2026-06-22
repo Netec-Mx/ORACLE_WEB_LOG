@@ -1,4 +1,4 @@
-# Oracle Weblogic 15
+# Oracle Weblogic 15 
 
 Curso práctico para administradores que se actualizan a WebLogic 15.
 
