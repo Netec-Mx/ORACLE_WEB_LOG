@@ -28,6 +28,30 @@ Curso práctico para administradores que se actualizan a WebLogic 15.
 
 ### Capítulo 4
 
+- [Ajuste de parámetros de memoria y heap dumps, ajustar parámetros JVM y observar su impacto.](Capitulo05/README.md#ajuste-de-parámetros-de-memoria-y-heap-dumps-ajustar-parámetros-jvm-y-observar-su-impacto)
+  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
+  - Duración estimada: 120 min
+
+### Capítulo 5
+
+- [Desplegar cluster simple y validar failover.](Capitulo07/README.md#desplegar-cluster-simple-y-validar-failover)
+  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
+  - Duración estimada: 120 min
+
+### Capítulo 6
+
+- [Simular incidencia, recopilar trazas y resolver problemas.](Capitulo08/README.md#simular-incidencia-recopilar-trazas-y-resolver-problemas)
+  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
+  - Duración estimada: 90 min
+
+### Capítulo 7
+
+- [Configuración de canales seguros habilitar TLS 1.3 para Administration. Realizar hardening de protocolos inseguros.](Capitulo06/README.md#configuración-de-canales-seguros-habilitar-tls-13-para-administration-realizar-hardening-de-protocolos-inseguros)
+  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
+  - Duración estimada: 120 min
+
+### Capítulo 8
+
 - [Automatización de despliegues con WLST.](Capitulo04/README.md#automatización-de-despliegues-con-wlst)
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
   - Duración estimada: 75 min
@@ -35,32 +59,3 @@ Curso práctico para administradores que se actualizan a WebLogic 15.
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
   - Duración estimada: 75 min
 
-### Capítulo 5
-
-- [Ajuste de parámetros de memoria y heap dumps, ajustar parámetros JVM y observar su impacto.](Capitulo05/README.md#ajuste-de-parámetros-de-memoria-y-heap-dumps-ajustar-parámetros-jvm-y-observar-su-impacto)
-  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - Duración estimada: 120 min
-
-### Capítulo 6
-
-- [Configuración de canales seguros habilitar TLS 1.3 para Administration. Realizar hardening de protocolos inseguros.](Capitulo06/README.md#configuración-de-canales-seguros-habilitar-tls-13-para-administration-realizar-hardening-de-protocolos-inseguros)
-  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - Duración estimada: 120 min
-
-### Capítulo 7
-
-- [Desplegar cluster simple y validar failover.](Capitulo07/README.md#desplegar-cluster-simple-y-validar-failover)
-  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - Duración estimada: 120 min
-
-### Capítulo 8
-
-- [Simular incidencia, recopilar trazas y resolver problemas.](Capitulo08/README.md#simular-incidencia-recopilar-trazas-y-resolver-problemas)
-  - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - Duración estimada: 90 min
-
-## Flujo de colaboración
-
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
