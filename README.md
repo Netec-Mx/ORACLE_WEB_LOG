@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Oracle Weblogic 15 
 
 Curso práctico para administradores que se actualizan a WebLogic 15.
@@ -58,4 +60,16 @@ Curso práctico para administradores que se actualizan a WebLogic 15.
 - [Usar la API REST de WebLogic y scripts externos.](Capitulo04/README.md#usar-la-api-rest-de-weblogic-y-scripts-externos)
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
   - Duración estimada: 75 min
+
+  -------------------------------------------------------------------------------------------------------------------------------------
+
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
 
