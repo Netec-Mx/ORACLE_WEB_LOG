@@ -6,7 +6,7 @@ Curso práctico para administradores que se actualizan a WebLogic 15.
 
 ## Estructura
 
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+- `Capitulo/README.md`: Guía de laboratorios por capítulo.
 
 ## Lista de laboratorios
 
